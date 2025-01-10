@@ -38,5 +38,6 @@ __Backend:__
 
 - 📧 Email: [amornthep.tee@gmail.com](mailto:amornthep.tee@gmail.com)
 
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/amornthep-him)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat) [LinkedIn Profile](https://www.linkedin.com/in/amornthep-him)
+
 
